@@ -17,7 +17,7 @@ The ruling line removal was performed using the following four main steps:
 
 Below is a sample text image that will be used to explain what each of the algorithm actually accomplishes:
 
-![Sample_text](/doc/sample-1.png)
+![Sample_text](/sample-1.png)
 
 ## Preprocessing
 
