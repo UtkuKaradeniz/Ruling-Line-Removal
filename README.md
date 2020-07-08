@@ -130,7 +130,7 @@ Below is the image produced by the evaluation function when using Line Iterator 
 |Correctly Removed Ruling Line Pixels (%)   | 99.60             | 93.53                     | 96.50                  |
 |Correctly Removed Pixels (%)               | 78.16             | 92.27                     | 89.26                  |
 
-    It should be noted that the above results are only from the sample page. In the actual dataset of the project, the performance of each algorithm was a bit underperforming compared to the above results. 
+*It should be noted that the above results are only from the sample page. In the actual dataset of the project, the performance of each algorithm was underperforming compared to the above results.*
 
 # Conclusion and Final Remarks
 
